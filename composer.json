@@ -1,5 +1,5 @@
 {
-    "name": "katanyoo/yii2-mailgun-mailer",
+    "name": "tarontaron/yii2-mailgun-mailer",
     "description": "Mailgun Mailer for Yii 2 framework.",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","mailer","mailgun"],
